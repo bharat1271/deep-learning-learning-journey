@@ -57,13 +57,32 @@ Concepts Covered:
 
 Status: Completed
 
+## LSTM & GRU Sequence Modeling
+
+Repository:
+
+https://github.com/bharat1271/learning-lstm-gru-sequence-modeling
+
+Concepts Covered:
+
+* Recurrent Neural Networks (RNN)
+* Long Short-Term Memory (LSTM)
+* Gated Recurrent Units (GRU)
+* Early Stopping
+* Sequence Modeling
+* Text Generation
+* TensorFlow / Keras
+* Streamlit Deployment
+
+Status: Completed
+
 ---
 
 # Currently Learning
 
-* Word Embeddings
-* LSTM Networks
-* Deep Learning Architectures
+* Bidirectional RNN
+* Encoder Decoder
+* Attention Mechanism
 
 ---
 
@@ -71,10 +90,8 @@ Status: Completed
 
 ## Deep Learning
 
-* LSTM
-* GRU
+* Encoder and Decoder
 * Sequence-to-Sequence Models
-* Attention Mechanisms
 
 ## NLP
 
